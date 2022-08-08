@@ -2,7 +2,8 @@
 
 - 🔭 Hoje estou trabalhando em um projeto próprio
 - 🌱 Estudando JavaScript
-- 🎓 Cursando Engenharia de Software (3º período)
+- 🎓 Cursando Engenharia de Software (4º período)
+- 🔗 Portfolio: https://pedrohenriquegalvao.github.io/portfolio/ 
 
 <div align="center">
   <a href="https://github.com/pedrohenriquegalvao">
