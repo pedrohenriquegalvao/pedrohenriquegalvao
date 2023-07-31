@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Pedro Henrique Galvão
 
 - 🔭 Hoje estou trabalhando em um projeto próprio
-- 🌱 Estudando JavaScript
-- 🎓 Cursando Engenharia de Software (5º período)
+- 🌱 Estudando TypeScript
+- 🎓 Cursando Engenharia de Software (6º período)
 - 🔗 Portfolio: https://pedrohenriquegalvao.github.io/portfolio/ 
 
 <div align="center">
