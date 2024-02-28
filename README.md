@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou trabalhando em um projeto próprio
 - 🌱 Estudando TypeScript
-- 🎓 Cursando Engenharia de Software (6º período)
+- 🎓 Cursando Engenharia de Software (7º período)
 - 🔗 Portfolio: https://pedrohenriquegalvao.github.io/portfolio/ 
 
 <div align="center">
